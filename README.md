@@ -1,5 +1,5 @@
 # Mah-Framework-1.5
-This project is at my school, I don't want to write print("hello") and get 50 points. Because I am above them.
+Published as my exam project. This project is at my school, I don't want to write print("hello") and get 50 points. Because I am above them.
 Best regards, Erkan teacher.
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
