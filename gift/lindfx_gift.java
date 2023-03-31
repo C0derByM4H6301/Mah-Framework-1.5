@@ -1,0 +1,4 @@
+class framework {
+    public static void main(String[] args) {
+        System.out.println("Genc bir yazilimcinin olusturdugu framework projesi = https://github.com/C0derByM4H6301/mah-framework \n"+" Framework project created by a young software developer \n "+" Proje buyuk azim ve caba ile olusturulmustur. \n "+" The project has been created with great perseverance and effort. \n "+"Projeyi olusturan Mahmut P. Gomulu yazilimlari moduller halinde calistiran bir merkez olusturmayi amaclamis ve bunu basarmistir \n "+"Mahmut P., who created the project. It aimed to create a center that runs embedded software in modules and has achieved this \n"+"Mahmut P. yaptigi projeler bir cok insanin beklentisini karsilamaktadir ve kendisi gelisen iyi bir yazilimcidir \n"+"Mahmut P. the projects he does meet the expectations of many people and he is a good writer who is developing");
+}}
